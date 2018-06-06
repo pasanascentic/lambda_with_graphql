@@ -1,0 +1,14 @@
+{
+  "name": "t1",
+  "version": "1.0.0",
+  "description": "test one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pasan",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^0.13.2"
+  }
+}
